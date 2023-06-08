@@ -1,5 +1,7 @@
 # Resonant Cancellation
-
+Repository containing the data and the analysis for the publication of the resonant cancellation effect. 
+<br />
+<br />
 
 Play with it online:
 
@@ -9,3 +11,4 @@ Play with it online:
 
 Official Release:
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.XXX.svg)](https://doi.org/10.5281/zenodo.XXX)
