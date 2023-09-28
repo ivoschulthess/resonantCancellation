@@ -11,4 +11,4 @@ Play with it online:
 
 Official Release:
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.XXX.svg)](https://doi.org/10.5281/zenodo.XXX)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.8043662.svg)](https://doi.org/10.5281/zenodo.8043662)
